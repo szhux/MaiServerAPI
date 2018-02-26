@@ -1,0 +1,5 @@
+models\ListOfMessages.class
+TestSuite.class
+models\Message.class
+verifications\MessagesVerifications.class
+models\Constants.class
